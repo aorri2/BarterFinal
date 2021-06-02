@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449304090494",
+    "project_id": "barter-project-91cd2",
+    "storage_bucket": "barter-project-91cd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449304090494:android:3becf559b3189508fbc52f",
+        "android_client_info": {
+          "package_name": "com.example.barter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449304090494-jacl572f7daa07sfblkjnvttkvaup32d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLd3WXm-PdQ6-BZ9fsOdwnhxEUKNA0Aro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449304090494-jacl572f7daa07sfblkjnvttkvaup32d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
